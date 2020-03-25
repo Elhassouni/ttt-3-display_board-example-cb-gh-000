@@ -2,3 +2,6 @@
 def display_board
   puts "Tic Tac Toc Board"
 end
+display_board
+display_board
+display_board
